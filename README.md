@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HaochengBillYang
+- 👀 I’m Student of UIUC ECE Dept.
+- 🌱 I’m currently learning Python Full Stack Dev.
+- 📫 How to reach me: hy38@illinois.edu
